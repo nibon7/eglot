@@ -109,6 +109,7 @@ variable, where you can [easily add your own servers][manual].
 * Lua's [lua-lsp][lua-lsp]
 * Markdown's [marksman][marksman]
 * Mint's [mint-ls][mint-ls]
+* Nushell's [nu-lsp][nu-lsp]
 * Nix's [rnix-lsp][rnix-lsp]
 * Ocaml's [ocaml-lsp][ocaml-lsp]
 * Perl's [Perl::LanguageServer][perl-language-server]
@@ -290,6 +291,7 @@ for the request form, and we'll send it to you.
 [lua-lsp]: https://github.com/Alloyed/lua-lsp
 [marksman]: https://github.com/artempyanykh/marksman
 [mint-ls]: https://www.mint-lang.com/
+[nu-lsp]: https://github.com/nushell/nushell/tree/main/crates/nu-lsp
 [rnix-lsp]: https://github.com/nix-community/rnix-lsp
 [ocaml-lsp]: https://github.com/ocaml/ocaml-lsp/
 [perl-language-server]: https://github.com/richterger/Perl-LanguageServer
